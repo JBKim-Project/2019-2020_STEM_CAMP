@@ -1,15 +1,15 @@
 site_name: 2019-2020 UNIST STEM CAMP
 
 pages:
-	- HOME : index.md
-	- LAB :
-		- LAB1 : lab/lab1.md
-		- LAB2 : lab/lab2.md
-		- LAB3 : lab/lab3.md
-		- LAB4 : lab/lab4.md
-		- LAB5 : lab/lab5.md
-		- LAB6 : lab/lab6.md
-	- CHALLENGE :
-		- CHALLENGE1 : challenge/challenge1.md
-		- CHALLENGE2 : challenge/challenge2.md
-		- CHALLENGE3 : challenge/challenge3.md
+  - HOME : index.md
+  - LAB :
+    - LAB1 : lab/lab1.md
+    - LAB2 : lab/lab2.md
+    - LAB3 : lab/lab3.md
+    - LAB4 : lab/lab4.md
+    - LAB5 : lab/lab5.md
+    - LAB6 : lab/lab6.md
+  - CHALLENGE :
+    - CHALLENGE1 : challenge/challenge1.md
+    - CHALLENGE2 : challenge/challenge2.md
+    - CHALLENGE3 : challenge/challenge3.md
